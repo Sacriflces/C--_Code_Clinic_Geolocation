@@ -7,7 +7,7 @@
 #include <iomanip>
 #include <boost/json.hpp>
 
-static const char * API_KEY = "You're Key";
+static const char * API_KEY = "Your API Key";
 static const char * GEO_LOC_URL = "https://www.googleapis.com/geolocation/v1/geolocate?key=";
 class GeolocationRequest 
 {
